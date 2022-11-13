@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandar.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java Script, HTML and CSS. Starting with PHP soon.
+- 🌱 My skills are HTML, CSS, Bootstrap and JavaScript.
 - 💞️ I’m looking to collaborate on everything, because I want to learn and improve.
 - 📫 You can reach me on my email: alexstev985@gmail.com. 
 
